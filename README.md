@@ -1,4 +1,4 @@
-# ESP32 Smart Green System
+# 🍀ESP32 Smart Green System
 
 **ESP32 Smart Green System** is an automated IoT plant care system. It continuously monitors environmental conditions (air temperature, air humidity, and soil moisture), streams real-time data to **Adafruit IO**, and automatically controls a cooling fan and a water pump based on sensor thresholds.
 
