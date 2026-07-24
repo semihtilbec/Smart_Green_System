@@ -1,1 +1,1 @@
-![Smart Green System Setup](./images/product.png)
+![Smart Green System Setup](product.png)
