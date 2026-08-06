@@ -67,7 +67,7 @@ git clone https://github.com/kullaniciadin/SmartGreenSystem.git
 
 ### 2. Create config.h
 
-Create a `config.h` file in the `code/` folder — **do not upload this file to GitHub:**
+Create a `config.h` file in the `code/` folder.
 
 ```cpp
 #define IO_USERNAME  "your_adafruit_username"
